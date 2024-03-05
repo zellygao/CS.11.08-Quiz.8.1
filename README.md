@@ -1,0 +1,7 @@
+There are two classes: Student and Subject. The Subject class is completely implemented. The Student class is partially implemented. The code that you will write will be written inside the Student class only. 
+
+A Student object will have three properties: first name, last name, and an array list of Subject objects.
+
+Your mission is to implement two of the three methods in the Student class that have not been implemented. The three methods are: bestSubject, averageGrade, and reportCard. You may choose any two. Note that there is an accompanying test class, which includes a test case for each of the three methods. Note that you are only required to pass the two test cases that correspond to the two methods that you choose to implement. You may comment out the test case for the method that you choose not to implement if you wish.
+
+Good luck, have fun! :)
